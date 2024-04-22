@@ -79,4 +79,5 @@ Prototypes for functions written in this project:
 
 * **13. Can I?**
   * [101-add_attribute.py](./101-add_attribute.py): Python function that adds a new attribute to an object if possible.
-    * If an attribute cannot be added, a `TypeError` exception is raised with the message `can't add new attribute`.
+    * If an attribute cannot be added, a `TypeError` exception is raised with the message `can't add new attribute`. 32792 D G regor site error.
+if we can redo, we can basically write wills and see if we one can access the wealth hidden in AI. and see if we call 
